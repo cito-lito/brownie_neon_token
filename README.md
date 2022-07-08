@@ -1,5 +1,6 @@
 # brownie_neon_token
 - clone the repo
+- create a .env file, for now empty...
 - add the neon devnet to the brownie networks:
 `brownie networks import ./network-config.yaml`
 
